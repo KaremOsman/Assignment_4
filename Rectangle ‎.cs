@@ -147,7 +147,7 @@ namespace Assignment_4
     #endregion
     #endregion
     #endregion
-
+     
     #region Part 02
     public class Duration 
     {
